@@ -50,8 +50,7 @@ Puedes ejecutar este proyecto en tu computadora de dos formas: **clonando el rep
 Ejecuta los siguientes comandos en tu terminal:
 
 ```bash
-git clone [https://github.com/Jordy-Aguilar/JS-and-CSS-Clock.git](https://github.com/Jordy-Aguilar/JS-and-CSS-Clock.git)
-cd JS-and-CSS-Clock
+git clone https://github.com/Jordy-Aguilar/JS-and-CSS-Clock.git
 ```
 
 Finalmente, abre el archivo `index.html` en tu navegador preferido.
