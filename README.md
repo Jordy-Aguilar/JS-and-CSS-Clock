@@ -49,3 +49,52 @@ Puedes ejecutar este proyecto en tu computadora de dos formas: **clonando el rep
 ```bash
 git clone https://github.com/Jordy-Aguilar/JS-and-CSS-Clock.git
 
+Luego ejecuta:
+
+cd JS-and-CSS-Clock
+
+Finalmente, abre el archivo:
+
+index.html
+
+en tu navegador preferido.
+
+---
+
+### ✅ Opción 2: Descargar archivo ZIP
+
+Entra al repositorio:
+🔗 https://github.com/Jordy-Aguilar/JS-and-CSS-Clock
+
+Haz clic en el botón Code (verde).
+
+Selecciona Download ZIP.
+
+Extrae el archivo en tu computadora.
+
+Abre index.html en tu navegador.
+
+---
+
+🌐 Link del despliegue del proyecto
+
+El reloj está disponible en Netlify:
+
+- 🔗 https://js-and-css-clockjordyaguilar.netlify.app/
+
+- 📚 Conceptos reforzados
+
+- 🔄 Rotación de elementos mediante CSS transform.
+
+- 📅 Uso del objeto Date() para obtener horas, minutos y segundos.
+
+- 📐 Cálculo proporcional de ángulos para cada manecilla.
+
+- 🎞️ Transiciones fluidas con cubic-bezier.
+
+- 🕒 Actualización de la interfaz en tiempo real.
+
+👨‍💻 Autor
+
+Jordy Enrique Aguilar Yaure
+
